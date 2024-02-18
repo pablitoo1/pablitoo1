@@ -11,7 +11,6 @@
 </p>
 
 <br />
-<br />
 
 <h1>ABOUT ME</h1>
 
@@ -27,7 +26,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-336791?style=for-the-badge&labelColor=336791&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
 <hr/>
 <br/>
 
