@@ -27,6 +27,27 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <hr/>
+<h1>LKS GŁOWIENKA</h1>
+
+## Description
+
+Football club management system with automatic counting of player, club and season statistics.
+
+## Project Link
+
+[LKS GŁOWIENKA](https://www.lksglowienka.pl/)
+
+## Technologies Used (for FRONT-END)
+
+* React/Next.js (TypeScript)
+* TailwindCSS
+* REST API
+
+## Co-authors
+
+* Marcin Bator (@marcinbator)
+* Wiktor Mazur (@ZegarekPL)
+<hr/>
 <br/>
 
 <p align="center">
