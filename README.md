@@ -35,7 +35,7 @@ Football club management system with automatic counting of player, club and seas
 
 ## Project Link
 
-[LKS GŁOWIENKA](https://www.lksglowienka.pl/)
+<a href="https://www.lksglowienka.pl/" target="_blank">LKS GŁOWIENKA</a>
 
 ## Technologies Used (for FRONT-END)
 
