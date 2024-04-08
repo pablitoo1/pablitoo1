@@ -27,15 +27,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <hr/>
-<h1>LKS GŁOWIENKA</h1>
+
+# MY PROJECT
+
+| <img src="https://www.lksglowienka.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flks.844207aa.png&w=3840&q=75" width=60 height=60 /> | LKS GŁOWIENKA | [CHECK IT](https://www.lksglowienka.pl/) |
+|:---:|:---:|:---:|
 
 ## Description
 
 Football club management system with automatic counting of player, club and season statistics.
-
-## Project Link
-
-<a href="https://www.lksglowienka.pl/" target="_blank">LKS GŁOWIENKA</a>
 
 ## Technologies Used (for FRONT-END)
 
