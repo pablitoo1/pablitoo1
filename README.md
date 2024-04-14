@@ -39,7 +39,7 @@ Football club management system with automatic counting of player, club and seas
 
 ## Technologies Used (for FRONT-END)
 
-* React/Next.js (TypeScript)
+* React/Next.js (TypeScript) 
 * TailwindCSS
 * REST API
 
