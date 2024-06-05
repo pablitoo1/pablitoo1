@@ -29,26 +29,27 @@
 
 <hr/>
 
-# MY PROJECT
+# LKS Głowienka
 
-| <img src="https://www.lksglowienka.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flks.844207aa.png&w=3840&q=75" width=60 height=60 /> | LKS GŁOWIENKA | [CHECK IT](https://www.lksglowienka.pl/) |
-|:---:|:---:|:---:|
+<img src="https://www.lksglowienka.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flks.844207aa.png&w=3840&q=75" alt="Project Image" width="200"/>
 
 ## Description
 
 Football club management system with automatic counting of player, club and season statistics.
 
-## Technologies Used (for FRONT-END)
+[**CHECK IT**](https://www.lksglowienka.pl/)
 
-* React/Next.js (TypeScript) 
-* TailwindCSS
-* REST API
+## Technology Stack
+
+- **React/Next.js (TypeScript), TailwindCSS**
+- **Java, SpringBoot, PostgreSQL, Docker**
 
 ## Co-authors
 
 * Marcin Bator (@marcinbator)
 * Wiktor Mazur (@ZegarekPL)
-<hr/>
+
+<hr>
 <br/>
 
 <p align="center">
