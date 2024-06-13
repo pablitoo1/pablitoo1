@@ -31,7 +31,7 @@
 
 # LKS Głowienka
 
-<img src="https://www.lksglowienka.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flks.844207aa.png&w=3840&q=75" alt="Project Image" width="200"/>
+<img src="https://www.lksglowienka.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flks.844207aa.png&w=3840&q=75" alt="Project Image" width="100"/>
 
 ## Description
 
