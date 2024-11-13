@@ -30,22 +30,23 @@
 
 <hr/>
 
-# Deployed projects
+# Deployed projects:
 
-## LKS Głowienka
+## <img width="20" height="20" src="https://www.lksglowienka.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flks.844207aa.png&w=3840&q=75" alt="LKS Głowienka"/> LKS Głowienka
+
 
 - **DESCRIPTION:** <br/>Football club management system with automatic counting of player, club and season statistics.
-- **TECH STACK:** <br/>React/Next.js, TypeScript, TailwindCSS
-- **CO-AUTHORS:** </br>Marcin Bator (@marcinbator), Wiktor Mazur (@ZegarekPL)
-- [**CHECK IT**](https://www.lksglowienka.pl/)
+- **MY TECH STACK:** <br/>React/Next.js, TypeScript, TailwindCSS
+- **CO-AUTHORS:** </br>Marcin Bator[▶️](@marcinbator), Wiktor Mazur[▶️](@ZegarekPL)
+- **CHECK IT**[▶️](https://www.lksglowienka.pl/)
 
-## RUT-AI GAMES
+## <img width="22" height="22" src="https://rutai.kia.prz.edu.pl/images/rag-2.png" alt="RUT-AI-GAMES"/> RUT-AI-GAMES 2
 
 - **DESCRIPTION:** <br/>Application with web minigames prepared to collect game data and connect AI models to game agents via websocket. 
-- **TECH STACK:** <br/>Angular, TypeScript, TailwindCSS, Karma, Cypress
-- **CO-AUTHORS:** </br>Marcin Bator (@marcinbator), Bartłomiej Krówka (@bkrowka)
-- [**FRONTEND CODE**](https://github.com/theImmortalCoders/rag-2-frontend)
-- [**CHECK IT**](https://rutai.kia.prz.edu.pl/)
+- **MY TECH STACK:** <br/>Angular, TypeScript, TailwindCSS, Karma, Cypress
+- **CO-AUTHORS:** </br>Marcin Bator[▶️](@marcinbator), Bartłomiej Krówka[▶️](@bkrowka)
+- **FRONTEND CODE**[▶️](https://github.com/theImmortalCoders/rag-2-frontend)
+- **CHECK IT**[▶️](https://rutai.kia.prz.edu.pl/)
 
 <hr>
 <br/>
