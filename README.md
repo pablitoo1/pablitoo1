@@ -30,7 +30,7 @@
 
 <hr/>
 
-# Deployment projects
+# Deployed projects
 
 ## LKS Głowienka
 
