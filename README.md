@@ -78,7 +78,7 @@
 ## <img width="22" height="22" src="https://rutai.kia.prz.edu.pl/images/rag-2.png" alt="RUT-AI-GAMES"/> RUT-AI-GAMES 2
 
 - **DESCRIPTION:** <br/>Application with web minigames prepared to collect game data and connect AI models to game agents via websocket. 
-- **MY TECH STACK:** <br/>Angular, TypeScript, TailwindCSS, Karma, Cypress
+- **MY TECH STACK:** <br/>Angular, TypeScript, TailwindCSS, Karma, Jasmine, Cypress
 - **CO-AUTHORS:** </br>Marcin Bator [▶️](https://github.com/marcinbator), Bartłomiej Krówka [▶️](https://github.com/bkrowka)
 - **FRONTEND CODE** [▶️](https://github.com/theImmortalCoders/rag-2-frontend)
 - **CHECK IT** [▶️](https://rutai.kia.prz.edu.pl/)
